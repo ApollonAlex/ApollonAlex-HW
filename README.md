@@ -35,5 +35,6 @@ Transistor-level design and optimization of a high-speed True Single-Phase Clock
 **Apollon Alexandros Anastopoulos**  
 Electrical and Computer Engineering — University of Patras  
 Email: anastopoulosalex@gmail.com
+phone: +30 698 33 23 712
 
 *Detailed documentation and selected project files are being added progressively.*
