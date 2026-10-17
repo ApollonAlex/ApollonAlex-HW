@@ -1,22 +1,23 @@
 # RISC-V Controlled CGRA Accelerator
 
 ## Overview
-Diploma thesis focused on the design and
-integration of a RISC-V-controlled
-Coarse-Grained Reconfigurable Array (CGRA).
+This project is part of my diploma thesis at the University of Patras. It focuses on integrating a RISC-V processor with a Coarse-Grained Reconfigurable Array (CGRA) accelerator through a custom Control Unit and Memory-Mapped I/O (MMIO) interface.
+
+## Main Components
+- **PicoRV32:** RISC-V processor core.
+- **Control Unit:** Manages CGRA configuration and execution.
+- **MMIO Interface:** Enables software-based control of the accelerator.
+- **CGRA:** Reconfigurable hardware architecture for accelerating computations.
+- **Functional Verification:** Simulation and testing of the integrated system.
 
 ## Technologies
 - Chisel / Scala
+- Verilog
 - RISC-V
-- CGRA Architecture
-- RTL Design
-- FPGA
+- FPGA Design
+- C / Assembly
 
-## Main Components
-- Custom Control Unit
-- MMIO Interface
-- CGRA Integration
-- Functional Verification
+## Project Status
+The current implementation has been functionally verified through simulation. FPGA implementation is planned as a subsequent development stage.
 
-## Status
-Ongoing development.
+The underlying CGRA framework is a private dependency and is not included in this repository.
