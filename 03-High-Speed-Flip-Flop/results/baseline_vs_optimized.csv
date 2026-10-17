@@ -1,0 +1,4 @@
+Metric,Baseline,Optimized (Kcrit=1.8),Unit
+Worst-case clock-to-Q delay,117.21,88.48,ps
+Average power,47.04,56.34,uW
+Power-delay product,5.514,4.985,fJ
