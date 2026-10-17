@@ -37,4 +37,4 @@ Electrical and Computer Engineering – University of Patras
 Email: anastopoulosalex@gmail.com  
 Phone: +30 698 33 23 712
 
-*Detailed documentation and selected project files are being added progressively.*
+
